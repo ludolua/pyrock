@@ -1,0 +1,2 @@
+# pyrock
+learning python!
